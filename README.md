@@ -1,6 +1,5 @@
-<h1 align="center">🧑🏻‍💻 Do conceito ao código, dando vida a ideias.💫</h1>
-
-<table border="0">
+<h1 align="center"> Do conceito ao código, dando vida a ideias.💫</h1>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left" style="vertical-align: top; width: 70%;">
       🖼️ Técnico em Design Gráfico (IFPE - Campus Recife)<br>
@@ -9,15 +8,19 @@
       💻 Front-end + UX/UI<br>
       🚀 Explorando Back-end
     </td>
-    <td align="center" style="vertical-align: top; width: 30%;">
-      <img src="https://media.tenor.com/E8bY5Y7I4N8AAAAd/peridot-steven-universe.gif" alt="Peridot Steven Universe Sticker" width="100"/>
+    <td align="right" style="vertical-align: top; width: 30%;">
+      <img width="200" height="300" src="https://github.com/user-attachments/assets/29644772-b6ba-4708-b2e4-bdfefd19a039" alt="GIF de Boas-vindas" />
     </td>
   </tr>
 </table>
 
+
 <p align="center">
  <img width="1584" height="396" alt="banners" src="https://github.com/user-attachments/assets/f9202352-6114-4fe8-a648-f2ad065d093f" />
 </p>
+
+---
+
 
 
 <h2>🧠 Sobre mim</h2>
@@ -35,6 +38,7 @@ Tenho interesse em desenvolvimento front-end e design gráfico, buscando criar s
 Atualmente, estou expandindo meus conhecimentos explorando Java e desenvolvimento back-end, com o objetivo de me tornar um profissional cada vez mais completo.
 </p>
 
+---
 <h2 align="center">📫 Conecte-se comigo</h2>
 
 <div align="center">
@@ -73,8 +77,6 @@ Atualmente, estou expandindo meus conhecimentos explorando Java e desenvolviment
 
 <h2 align="center">📊 Atividade no GitHub</h2>
 
-
----
 
 <div align="center">
  
