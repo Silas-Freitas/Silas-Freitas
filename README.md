@@ -14,18 +14,7 @@
 
 ---
 
-<h2 align="center">📫 Conecte-se comigo</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/silas-freitas-sf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.behance.net/silasfreitas3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&color=1769ff&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
-
----
 
 <h2>🧠 Sobre mim</h2>
 
@@ -42,6 +31,18 @@ Tenho interesse em desenvolvimento front-end e design gráfico, buscando criar s
 Atualmente, estou expandindo meus conhecimentos explorando Java e desenvolvimento back-end, com o objetivo de me tornar um profissional cada vez mais completo.
 </p>
 
+<h2 align="center">📫 Conecte-se comigo</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/silas-freitas-sf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://www.behance.net/silasfreitas3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&color=1769ff&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+---
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="center">
