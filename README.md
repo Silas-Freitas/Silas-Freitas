@@ -2,7 +2,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left" style="vertical-align: top; width: 70%;">
-      🖼️ Técnico em Design Gráfico (IFPE - Campus Recife)<br>
+      🖼️ Técnico em Design Gráfico <br>
       🎓 Estudante de Sistemas para Internet (UNICAP - Embarque Digital)<br>
       🎨 Estudante de Design Gráfico (IFPE - Campus Recife)<br>
       💻 Front-end + UX/UI<br>
