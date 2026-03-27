@@ -1,19 +1,23 @@
 <h1 align="center">🧑🏻‍💻 Do conceito ao código, dando vida a ideias.💫</h1>
 
-<p align="center">
-🖼️ Técnico em Design Gráfico (IFPE - Campus Recife)<br>
-🎓 Estudante de Sistemas para Internet (UNICAP - Embarque Digital)<br>
-🎨 Estudante de Design Gráfico (IFPE - Campus Recife)<br>
-💻 Front-end + UX/UI<br>
-🚀 Explorando Back-end 
-</p>
+<table border="0">
+  <tr>
+    <td align="left" style="vertical-align: top; width: 70%;">
+      🖼️ Técnico em Design Gráfico (IFPE - Campus Recife)<br>
+      🎓 Estudante de Sistemas para Internet (UNICAP - Embarque Digital)<br>
+      🎨 Estudante de Design Gráfico (IFPE - Campus Recife)<br>
+      💻 Front-end + UX/UI<br>
+      🚀 Explorando Back-end
+    </td>
+    <td align="center" style="vertical-align: top; width: 30%;">
+      <img src="https://media.tenor.com/E8bY5Y7I4N8AAAAd/peridot-steven-universe.gif" alt="Peridot Steven Universe Sticker" width="100"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
  <img width="1584" height="396" alt="banners" src="https://github.com/user-attachments/assets/f9202352-6114-4fe8-a648-f2ad065d093f" />
 </p>
-
----
-
 
 
 <h2>🧠 Sobre mim</h2>
