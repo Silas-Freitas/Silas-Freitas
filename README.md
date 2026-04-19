@@ -8,9 +8,7 @@
       💻 Front-end + UX/UI<br>
       🚀 Explorando Back-end
     </td>
-    <td align="right" style="vertical-align: top; width: 30%;">
-      <img width="200" height="300" src="https://github.com/user-attachments/assets/29644772-b6ba-4708-b2e4-bdfefd19a039" alt="GIF de Boas-vindas" />
-    </td>
+    
   </tr>
 </table>
 
