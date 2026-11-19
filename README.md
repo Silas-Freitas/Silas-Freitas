@@ -8,7 +8,7 @@
 
 
 
-<h2>🧠 Sobre mim</h2>
+<h2>🌌 Sobre mim</h2>
 
 <p>
 Curso Sistemas para Internet na Universidade Católica de Pernambuco (UNICAP) e Design Gráfico no Instituto Federal de Pernambuco (IFPE).
