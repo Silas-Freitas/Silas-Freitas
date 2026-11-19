@@ -1,20 +1,7 @@
-<h1 align="center"> Do conceito ao código, dando vida a ideias.💫</h1>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left" style="vertical-align: top; width: 70%;">
-      🖼️ Técnico em Design Gráfico <br>
-      🎓 Estudante de Sistemas para Internet (UNICAP - Embarque Digital)<br>
-      🎨 Estudante de Design Gráfico (IFPE - Campus Recife)<br>
-      💻 Front-end + UX/UI<br>
-      🚀 Explorando Back-end
-    </td>
-    
-  </tr>
-</table>
 
 
 <p align="center">
- <img width="1584" height="396" alt="banners" src="https://github.com/user-attachments/assets/f9202352-6114-4fe8-a648-f2ad065d093f" />
+ <img width="6336" height="1584" alt="capa linkedin" src="https://github.com/user-attachments/assets/5cc3b08d-bf8f-48b3-8706-556c49d27b04" />
 </p>
 
 ---
@@ -24,16 +11,11 @@
 <h2>🧠 Sobre mim</h2>
 
 <p>
-Sou estudante de Tecnologia da Informação na UNICAP, ingressando pelo programa Embarque Digital.
-Também possuo formação técnica em Design Gráfico e atualmente curso o ensino superior tecnológico na área pelo IFPE.
+Curso Sistemas para Internet na Universidade Católica de Pernambuco (UNICAP) e Design Gráfico no Instituto Federal de Pernambuco (IFPE).
 </p>
 
 <p>
-Tenho interesse em desenvolvimento front-end e design gráfico, buscando criar soluções que unam estética e funcionalidade, com foco na experiência do usuário.
-</p>
-
-<p>
-Atualmente, estou expandindo meus conhecimentos explorando Java e desenvolvimento back-end, com o objetivo de me tornar um profissional cada vez mais completo.
+Tenho interesse em front-end e design gráfico. Busco unir estética e funcionalidade, com foco na experiência do usuário. Também exploro desenvolvimento back-end, Java e Python para ampliar minha formação.
 </p>
 
 ---
